@@ -6,8 +6,6 @@
 Welcome to Dell EMC Networking Chef Integration's documentation!
 ==================================================================
 
-Contents:
-
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
@@ -22,9 +20,10 @@ Contents:
    Support <support>
    License <license>
 
-Indices and tables
-==================
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+   Indices and tables
+   ==================
+
+   * :ref:`genindex`
+   * :ref:`modindex`
+   * :ref:`search`
