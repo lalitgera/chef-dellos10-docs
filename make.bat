@@ -7,7 +7,6 @@ REM Command file for Sphinx documentation
 if "%SPHINXBUILD%" == "" (
 	set SPHINXBUILD=sphinx-build
 )
-
 set SOURCEDIR=source
 set BUILDDIR=build
 set SPHINXPROJ=DellEMCNetworkingPuppetIntegration
@@ -15,7 +14,6 @@ set SPHINXPROJ=DellEMCNetworkingPuppetIntegration
 if "%1" == "" goto help
 
 %SPHINXBUILD% >NUL 2>NUL
-
 if errorlevel 9009 (
 	echo.
 	echo.The 'sphinx-build' command was not found. Make sure you have Sphinx
