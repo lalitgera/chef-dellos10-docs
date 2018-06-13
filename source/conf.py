@@ -141,8 +141,8 @@ latex_documents = [
      u'Dell EMC Networking', 'manual'),
 ]
 
-# -- Options for manual page output ------------------------------------------
 
+# -- Options for manual page output ------------------------------------------
 
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
@@ -151,8 +151,8 @@ man_pages = [
      [author], 1)
 ]
 
-# -- Options for Texinfo output ----------------------------------------------
 
+# -- Options for Texinfo output ----------------------------------------------
 
 # Grouping the document tree into Texinfo files. List of tuples
 # (source start file, target name, title, author,
