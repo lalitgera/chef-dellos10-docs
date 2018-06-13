@@ -1,9 +1,9 @@
 .. Dell EMC Networking Chef Integration documentation master file, created by
-   sphinx-quickstart on Thu May 10 09:50:55 2018.
+   sphinx-quickstart on Mon Apr  9 16:51:41 2018.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Dell EMC Networking Chef documentation
+Welcome to Dell EMC Networking Chef Integration's documentation!
 ==================================================================
 
 Contents:
@@ -22,3 +22,9 @@ Contents:
    Support <support>
    License <license>
 
+Indices and tables
+==================
+
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`
