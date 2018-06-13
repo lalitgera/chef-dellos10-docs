@@ -29,7 +29,7 @@ version = u''
 release = u'0.1'
 
 
-# -- General configuration ------------------------------------------------
+# -- General configuration ---------------------------------------------------
 
 # If your documentation needs a minimal Sphinx version, state it here.
 #
@@ -111,6 +111,7 @@ html_static_path = ['_static']
 
 # Output file base name for HTML help builder.
 htmlhelp_basename = 'DellEMCNetworkingChefIntegrationdoc'
+
 
 # -- Options for LaTeX output ------------------------------------------------
 
