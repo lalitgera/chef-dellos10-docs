@@ -24,7 +24,7 @@ Welcome to Dell EMC Networking Chef Integration's documentation!
 Indices and tables
 ==================
 
-
+=======
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
