@@ -21,9 +21,10 @@ Welcome to Dell EMC Networking Chef Integration's documentation!
    License <license>
 
 
-   Indices and tables
-   ==================
+Indices and tables
+==================
 
-   * :ref:`genindex`
-   * :ref:`modindex`
-   * :ref:`search`
+
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`
