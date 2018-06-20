@@ -20,7 +20,7 @@
 # -- Project information -----------------------------------------------------
 
 project = u'Dell EMC Networking Chef Integration'
-copyright =  u'2017, Dell Inc'
+copyright =  u'© 2018 Dell Inc. or its subsidiaries. All Rights Reserved.'
 author = u'Dell EMC Networking'
 
 # The short X.Y version
